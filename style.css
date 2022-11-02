@@ -133,6 +133,15 @@ p {
     font-size: 28px;
     font-weight: bold;
 }
+    color:#FFF;
+    font-size:14px;
+    font-weight:bold;
+    padding:20px;
+    margin:30px;
+    width:40%;
+    background:#f00;
+    opacity:0.4
+}
 .main .penulis {
     font-size: 11px;
     margin-top: -5px;
